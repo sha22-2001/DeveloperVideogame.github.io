@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    color: aliceblue;
+    padding: 1vw 5vw 1vw 5vw;
+    margin: 0 5px 0 5px;
+    justify-content: space-between;
+display: flex;
+align-items: center;
+font-size: 2vw;
+font-family: 'Century Gothic';
+}
+.dev1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dev1 .para p{
+    font-size: 2vw;
+    width: 54vw;
+}
+.dev1 img{
+    padding: 0;
+margin: 0px 9vw 0 9vw;
+}
+
+.back{
+    margin: 0;padding: 0;
+    background-image: url(5172658.png);
+}
+.body{
+    color: aliceblue;
+padding: 10px 10px 0 10px;margin: 10px 10px 0px 10px;
+}
